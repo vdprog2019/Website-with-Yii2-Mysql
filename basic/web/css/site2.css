@@ -1,0 +1,11 @@
+#content{
+    display: none;
+}
+#btn_send{
+    background-color: rgba(22, 155, 213, 1);
+    width: 311px;
+    height: 40px;
+    margin-left: 110px;
+    margin-top: 10px;
+}
+
